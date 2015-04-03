@@ -1,0 +1,16 @@
+{
+  "name" : "cti/ddd",
+  "type" : "library",
+  "description" : "The DDD helper bits for PHP",
+    "authors" : [
+      {
+        "name" : "Georgiana Gligor",
+        "email" : "g@lolaent.com"
+      }
+    ],
+    "autoload" : {
+      "psr-4" : {
+        "Cti\\" : "src/Cti/"
+      }
+    }
+}
